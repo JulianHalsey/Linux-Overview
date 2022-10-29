@@ -14,7 +14,7 @@ Basic commands and aspects Linux
 - <b>touch : creates a file<b>
 - <b>nano : creates a text file and opens the editor<b>
 - <b>mkdir : creates a folder<b>
-- <b>file : determines file type<b>
+- <b>file/stat : determines file type<b>
 - <b>pwd : shows where you are<b>
 - <b>./ or bash : executes a bash script in current folder (no space after 1st one)<b>
 
