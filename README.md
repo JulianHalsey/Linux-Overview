@@ -23,5 +23,6 @@ Basic commands and aspects Linux
 - <b>rwx : read, write, and execute go in order of user, group, and other<b>
 - <b>chmod +(-)r(w)(x) : takes away or adds permission for all to read, write, and/or execute<b>
 - <b>chmod u(g)(o) +(-)(=) : adds, subtracts, or sets equal permissions for either user, group, or other<b>
+- <b>chown : changes who owns the file
 
 
