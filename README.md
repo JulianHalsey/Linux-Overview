@@ -6,17 +6,21 @@ Basic commands and aspects Linux
 
 <h2>Commands</h2>
 
-- <b>cd : changes current folderto one specified<b>
-- <b>ls : lists all files and directories in current folder<b>
-- <b>cp : copy a file or folder<b>
+- <b>cd : change directory<b>
+- <b>ls : list<b>
+- <b>cp : copy a file<b>
 - <b>mv : move or rename a file or folder<b>
-- <b>rm : remove a fole or folder<b>
+- <b>rm : remove a file<b>
+- <b>cat : concatenates file
 - <b>touch : creates a file<b>
 - <b>nano : creates a text file and opens the editor<b>
 - <b>mkdir : creates a folder<b>
 - <b>file/stat : determines file type<b>
-- <b>pwd : shows where you are<b>
+- <b>pwd : print working directory<b>
 - <b>./ or bash : executes a bash script in current folder (no space after 1st one)<b>
+- <b>adduser : creates user<b>
+- <b>which: shows where command is stored
+- <b>
 
 <h2>Permissions</h2>
 
