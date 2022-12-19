@@ -26,7 +26,6 @@ Basic commands and aspects Linux
 - <b>netstat : status of your network
 - <b>ss : information on session
 - <b>ps: process information
-
 - <b>uname : provides info on varibous hardware/OS
 
 <h2>Users</h2>
