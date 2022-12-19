@@ -4,7 +4,7 @@ Basic commands and aspects Linux
 <br />
 <br />
 
-<h2>Commands</h2>
+<h2>Basics</h2>
 
 - <b>man : provides info on command
 - <b>--help : gives possible switches for command
