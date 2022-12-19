@@ -9,6 +9,7 @@ Basic commands and aspects Linux
 - <b>man : provides info on command
 - <b>--help : gives possible switches for command
 - <b>apropos : keyword search for commands if forgot/dont' know
+- <b>pwd : print working directory<b>
 - <b>cd : change directory<b>
 - <b>ls : list<b>
 - <b>cp : copy a file<b>
@@ -19,16 +20,20 @@ Basic commands and aspects Linux
 - <b>nano : creates a text file and opens the editor<b>
 - <b>mkdir : creates a folder<b>
 - <b>file/stat : determines file type<b>
-- <b>pwd : print working directory<b>
 - <b>./ or bash : executes a bash script in current folder (no space after 1st one)<b>
-- <b>adduser : creates user<b>
 - <b>which : shows where command is stored
 - <b>ifconfig of ip : information on network
 - <b>netstat : status of your network
 - <b>ss : information on session
 - <b>ps: process information
-- <b>who : users logged into system
+
 - <b>uname : provides info on varibous hardware/OS
+
+<h2>Users</h2>
+
+- <b>adduser : creates user<b>
+- <b>who : users logged into system
+- /etc/passwd : directory where users stored
 
 <h2>Permissions</h2>
 
