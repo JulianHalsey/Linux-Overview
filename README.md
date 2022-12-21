@@ -16,10 +16,10 @@ Basic commands and aspects Linux
 - <b>mv : move or rename a file or folder<b>
 - <b>rm : remove a file<b>
 - <b>cat : concatenates file
-- <b>touch : creates a file<b>
+- <b>touch : creates a file
 - <b>nano : creates a text file and opens the editor<b>
 - <b>mkdir : creates a folder<b>
-- <b>file/stat : determines file type<b>
+- <b>file/stat : determines file type
 - <b>./ or bash : executes a bash script in current folder (no space after 1st one)<b>
 - <b>which : shows where command is stored
 - <b>ifconfig of ip : information on network
@@ -30,9 +30,17 @@ Basic commands and aspects Linux
 
 <h2>Users</h2>
 
-- <b>adduser : creates user<b>
+- <b>adduser : creates user
+- <b>userdel : deletes user
+- <b>/etc/passwd : directory where users stored
+- <b>groupadd : adds new group
+- <b>/etc/group : directory where groups stored
+- <b>groups : lists what groups you're apart of
 - <b>who : users logged into system
-- /etc/passwd : directory where users stored
+- <b>passwd : set or change a user's password
+- <b>usermod : modifies user account
+- <b>su - : switch users (switches to sudo if blank)
+- <b> visudo : edit the sudoers file
 
 <h2>Permissions</h2>
 
