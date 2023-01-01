@@ -34,6 +34,7 @@ Basic commands and aspects Linux
 - <b>userdel : deletes user
 - <b>/etc/passwd : directory where users stored
 - <b>groupadd : adds new group
+- <b>groupdel : deletes group
 - <b>/etc/group : directory where groups stored
 - <b>groups : lists what groups you're apart of
 - <b>who : users logged into system
@@ -41,6 +42,7 @@ Basic commands and aspects Linux
 - <b>usermod : modifies user account
 - <b>su - : switch users (switches to sudo if blank)
 - <b> visudo : edit the sudoers file
+- <b> groups : lists what groups you're apart of
 
 <h2>Permissions</h2>
 
